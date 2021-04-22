@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Basic Chat UI Design Implementation using Flutter.
+
+![Alt text](/capture 1.jpg?raw=true "Main Screen")
+![Alt text](/capture 2.jpg?raw=true "Main Screen")
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
