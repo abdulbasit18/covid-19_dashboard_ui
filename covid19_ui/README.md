@@ -4,8 +4,8 @@ A new Flutter project.
 
 Basic app Implementation using Flutter.
 
-![Alt text](/covid19_ui/capture 1.jpg?raw=true "Main Screen")
-![Alt text](/covid19_ui/capture 2.jpg?raw=true "Main Screen")
+![Alt text](covid19_ui/capture 1.jpg?raw=true "Main Screen")
+![Alt text](covid19_ui/capture 2.jpg?raw=true "Main Screen")
 
 
 ## Getting Started
