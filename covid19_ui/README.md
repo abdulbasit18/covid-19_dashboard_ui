@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-Basic Chat UI Design Implementation using Flutter.
+Basic app Implementation using Flutter.
 
-![Alt text](/capture 1.jpg?raw=true "Main Screen")
-![Alt text](/capture 2.jpg?raw=true "Main Screen")
+![Alt text](/covid19_ui/capture 1.jpg?raw=true "Main Screen")
+![Alt text](/covid19_ui/capture 2.jpg?raw=true "Main Screen")
 
 
 ## Getting Started
